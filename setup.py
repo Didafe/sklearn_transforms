@@ -9,8 +9,8 @@ setup(
             tranforms from scikit-learn into Watson Machine Learning
       ''',
       url='https://github.com/vnderlev/sklearn_transforms/',
-      author='Vanderlei Munhoz',
-      author_email='vnderlev@protonmail.ch',
+      author='Fernando Sousa',
+      author_email='dida_fernando@hotmail.com',
       license='BSD',
       packages=[
             'my_custom_sklearn_transforms'
